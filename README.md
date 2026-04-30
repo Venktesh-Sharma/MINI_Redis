@@ -133,11 +133,11 @@ mvn test
 mini-redis> PING
 PONG
 
-mini-redis> SET name Rajrishi
+mini-redis> SET name Venktesh
 OK
 
 mini-redis> GET name
-"Rajrishi"
+"Venktesh"
 
 mini-redis> SET visits 0
 OK
